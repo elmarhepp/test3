@@ -1,0 +1,35 @@
+/* css styles */
+body {
+    background: #E6EAEC;
+    font-size: 14px;
+    line-height: 1.224489;
+    /*padding: 0px;*/
+}
+
+.myContainer {
+    margin: 20px;
+}
+
+.container1 {
+    padding-left: 10px;
+    margin: 10px;
+    background: #dddddd;
+}
+
+.product-search {
+    border-style: solid;
+    border-width: medium;
+    padding: 20px;
+}
+
+
+/* modal window */
+#myModal3 .xx22 {
+    width: 280px;
+    float: left;
+}
+
+#myModal3 .modal-footer {
+    clear: both;
+}
+
