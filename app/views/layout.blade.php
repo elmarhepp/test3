@@ -31,9 +31,9 @@
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li>{{ HTML::link('index', 'Index', array(), true)}}</li>
-            <li>{{ HTML::link('show', 'Show', array(), true)}}</li>
-            <li>{{ HTML::link('edit', 'Edit', array(), true)}}</li>
+            <li>{{ HTML::link('index', 'Index', array(), false)}}</li>
+            <li>{{ HTML::link('show', 'Show', array(), false)}}</li>
+            <li>{{ HTML::link('edit', 'Edit', array(), false)}}</li>
           </ul>
         </div>
       </div>
