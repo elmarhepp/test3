@@ -4,3 +4,4 @@ This is a simple Laravel app for testing purposes on a hosting server.
 
 Some changes here.
 change2
+change 3
